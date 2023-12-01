@@ -24,7 +24,7 @@ body {
 }
 
 .header__logo {
-  width: 60px;
+  width: 80px;
   padding: 10px;
 }
 
@@ -283,7 +283,7 @@ body {
 @media (min-width: 768px) {
   .header__logo {
     width: 60px;
-    padding: 10px;
+    padding: 5px;
   }
 
   .header__nav,
@@ -310,8 +310,8 @@ body {
   }
 
   .header__container-login .header__login i {
-    font-size: 22px;
-    margin: 12px 12px 0 20px;
+    font-size: 32px;
+    margin: 0px 5px 5px 5px;
     color: white;
     text-decoration: none;
     border-radius: 25px;
